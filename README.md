@@ -2,7 +2,7 @@
 # ANIMATED_MODEL_GALLERY
 Dynamic, animated model gallery with user controlled camera.
 Written in C++
-
+ ![](https://github.com/robloomes/GLUT_ANIMATED_MODEL_GALLERY/blob/master/image3.png)
 
 Copy of Untitled document
 To Run:
